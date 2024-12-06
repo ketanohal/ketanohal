@@ -60,7 +60,6 @@ I'm a passionate **Software Developer** 🧑‍💻 specializing in **Web Develo
   <a href="https://github.com/ketanohal"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-
 ---
 
 ### 🎁 **Fun Fact**  
