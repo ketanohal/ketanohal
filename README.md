@@ -1,6 +1,6 @@
 <!-- Futuristic Header with Animations -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=6EFFFA&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+My+Universe;I+am+Ketan+Ohal+%F0%9F%94%A5;Crafting+Software+Solutions+for+the+Future!;Full-Stack+Web+Developer+%7C+Cloud+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=6EFFFA&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+My+Github;I+am+Ketan+Ohal+%F0%9F%94%A5;Crafting+Software+Solutions+for+the+Future!;Full-Stack+Web+Developer+%7C+Cloud+Architect" alt="Typing Animation" />
 </p>
 
 ---
