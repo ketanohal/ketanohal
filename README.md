@@ -41,13 +41,6 @@ I'm a passionate **Software Developer** 🧑‍💻 specializing in **Web Develo
 
 ---
 
-## 🌀 **Immersive Animations**
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/media/99c9df1914c2c560c4dbd71d1f3fbff7.gif" width="600" />
-</p>
-
----
-
 ## 🚀 **Explore My Universe**
 - 🌐 **Portfolio**: Coming Soon 🌟  
 - 📝 **Blog**: [Tech Explorations](https://github.com/ketanohal/blogs)  
