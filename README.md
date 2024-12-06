@@ -74,7 +74,4 @@ I'm a passionate **Software Developer** 🧑‍💻 specializing in **Web Develo
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&pause=2000&color=FF5733&center=true&vCenter=true&width=600&lines=Let's+collaborate+and+innovate!" alt="Typing Animation" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=2000&color=00FFAF&center=true&vCenter=true&width=600&lines=Innovation+is+the+key+to+success!" />
-</p>
+---
