@@ -41,7 +41,7 @@ I'm a passionate **Software Developer** 🧑‍💻 specializing in **Web Develo
 
 ---
 
-## 🚀 **Explore My Universe**
+## 🚀 **Explore More**
 - 🌐 **Portfolio**: Coming Soon 🌟  
 - 📝 **Blog**: [Tech Explorations](https://github.com/ketanohal/blogs)  
 
