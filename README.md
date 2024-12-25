@@ -6,7 +6,7 @@
 ---
 
 # 🏆 **Ketan Ohal: Full Stack Devloper**
-Welcome to my digital workspace! As one of the top **Software Developers** globally, I specialize in crafting scalable, innovative, and future-proof technologies. I bring over a decade of expertise in **full-stack development**, **cloud engineering**, and **AI-powered solutions**, creating lasting impacts across industries.
+Welcome to my digital workspace! As a **Software Developers** , I specialize in crafting scalable, innovative, and future-proof technologies. I bring over a decade of expertise in **full-stack development**, **cloud engineering**, and **AI-powered solutions**, creating lasting impacts across industries.
 
 ---
 
