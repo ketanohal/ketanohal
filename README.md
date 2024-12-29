@@ -33,6 +33,11 @@ I am a **Software Developer** with a passion for creating clean, efficient, and 
 
 ---
 
+## **Portfolio**
+Explore my work and projects in more detail: [**My Portfolio**](https://your-portfolio-link.com)
+
+---
+
 ## **Contact Me**
 <p align="center">
   <a href="mailto:ohalketan123@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -43,7 +48,7 @@ I am a **Software Developer** with a passion for creating clean, efficient, and 
 ---
 
 ### **Inspiration**
-*"Strive for clean code and impactful solutions every day."*
+*\"Strive for clean code and impactful solutions every day.\"*
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&color=00FFC6&center=true&vCenter=true&width=800&lines=Building+Innovative+Software+for+a+Better+Tomorrow" alt="Typing Animation" />
 </p>
