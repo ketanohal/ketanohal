@@ -1,6 +1,6 @@
 <!-- Futuristic Header with Professional Styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&center=true&vCenter=true&width=1000&lines=Welcome+to+Ketan's+Developer+Space;Creating+Scalable+and+Innovative+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=4CAF50&center=true&vCenter=true&width=1000&lines=Welcome+to+Ketan's+Developer+Space;Creating+Scalable+and+Innovative+Solutions"" />
 </p>
 
 ---
